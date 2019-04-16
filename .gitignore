@@ -1,0 +1,5 @@
+private/
+apiKeys.*
+bundle.*
+notes.*
+node_modules
